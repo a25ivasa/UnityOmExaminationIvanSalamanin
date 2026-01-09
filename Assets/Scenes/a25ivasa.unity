@@ -55672,8 +55672,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 768325958}
-  - {fileID: 1245624801}
-  - {fileID: 1764847764}
   - {fileID: 2075516544}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -57029,7 +57027,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 6253135610406740833, guid: 58712df150c43e54d82fa5ef609fbbac, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -57050,11 +57048,11 @@ Transform:
   m_GameObject: {fileID: 1245624797}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7035893, w: -0.71060693}
-  m_LocalPosition: {x: -31.9956, y: -3.7999, z: 0}
-  m_LocalScale: {x: 1.0445372, y: 0.4617725, z: 1}
+  m_LocalPosition: {x: -31.506847, y: -3.9449213, z: 10032.279}
+  m_LocalScale: {x: 1.0445378, y: 0.4617727, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 663205261}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -89.431}
 --- !u!82 &1245624802
 AudioSource:
@@ -62157,7 +62155,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -4
+  m_SortingOrder: -32
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -98031,7 +98029,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -14
+  m_SortingOrder: -44
   m_Sprite: {fileID: -1635329384385548019, guid: f125fe21eb31c5d449159bd317bd4c71, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -98758,7 +98756,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -9
   m_Sprite: {fileID: 6253135610406740833, guid: 58712df150c43e54d82fa5ef609fbbac, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -98779,11 +98777,11 @@ Transform:
   m_GameObject: {fileID: 1764847760}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.7082898, w: 0.7059218}
-  m_LocalPosition: {x: 32.16574, y: -7.091377, z: -10032.278}
-  m_LocalScale: {x: 0.91987205, y: 0.47195852, z: 1}
+  m_LocalPosition: {x: 37.3589, y: -3.9363, z: 0}
+  m_LocalScale: {x: 0.9198721, y: 0.47195858, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 663205261}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90.192}
 --- !u!82 &1764847765
 AudioSource:
@@ -104420,4 +104418,6 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 221603251}
   - {fileID: 1244418023}
+  - {fileID: 1245624801}
+  - {fileID: 1764847764}
   - {fileID: 663205261}
