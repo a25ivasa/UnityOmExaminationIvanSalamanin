@@ -340,10 +340,10 @@ TextureImporter:
       name: flesh world props_10
       rect:
         serializedVersion: 2
-        x: 2320
-        y: 1351
-        width: 473
-        height: 458
+        x: 2327
+        y: 1350
+        width: 408
+        height: 461
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
