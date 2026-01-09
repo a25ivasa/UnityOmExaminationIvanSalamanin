@@ -43,7 +43,7 @@ public class PlatformerMovement : MonoBehaviour
         // Set gravity scale to 0 so player won't "fall" 
         rb.gravityScale = 0;
 
-        //animator = GetComponent<Animator>();
+        GetComponent<Animator>();
     }
     
     void Update()
@@ -67,6 +67,7 @@ public class PlatformerMovement : MonoBehaviour
             else
             {
                 // Has jumped. Play jump sound and/or trigger jump animation etc
+                animator.SetBool("isJumping", true);
             }
         }
         // Check if character gained contact with ground this frame
@@ -74,6 +75,7 @@ public class PlatformerMovement : MonoBehaviour
         {
             jumpReleased = false;
             // Has landed, play landing sound and trigger landing animation
+            animator.SetBool("isJumping", false);
         }
         wasGrounded = isGrounded;
         
@@ -81,9 +83,9 @@ public class PlatformerMovement : MonoBehaviour
         if (spriteRenderer)
         {
             if (moveInput.x > 0.01f)
-                spriteRenderer.flipX = false;
-            else if (moveInput.x < -0.01f)
                 spriteRenderer.flipX = true;
+            else if (moveInput.x < -0.01f)
+                spriteRenderer.flipX = false;
         }
     }
 
