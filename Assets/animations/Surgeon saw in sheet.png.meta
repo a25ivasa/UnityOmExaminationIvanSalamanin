@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 3484b397c0e22634da4d4b7af97081e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1799704423506266954
+    second: Surgeon saw in sheet_0
+  - first:
+      213: 7357660752963622631
+    second: Surgeon saw in sheet_1
+  - first:
+      213: 229445232851878761
+    second: Surgeon saw in sheet_2
+  - first:
+      213: -7256557057241895874
+    second: Surgeon saw in sheet_3
+  - first:
+      213: -945235580417589987
+    second: Surgeon saw in sheet_4
+  - first:
+      213: -3793526461700962504
+    second: Surgeon saw in sheet_5
+  - first:
+      213: 7935829106704846191
+    second: Surgeon saw in sheet_6
+  - first:
+      213: 88451667717974236
+    second: Surgeon saw in sheet_7
+  - first:
+      213: 5070542553291523708
+    second: Surgeon saw in sheet_8
+  - first:
+      213: -6167374482591162191
+    second: Surgeon saw in sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 180
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b4acf43a5d9f810800000000000000
+      internalID: 1799704423506266954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 63
+        width: 174
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6da36e879ab1660800000000000000
+      internalID: 7357660752963622631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 64
+        width: 177
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9630b8f39372f2300800000000000000
+      internalID: 229445232851878761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 62
+        width: 141
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c2eb6adc78b4b90800000000000000
+      internalID: -7256557057241895874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 61
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d36286f39d1e2f0800000000000000
+      internalID: -945235580417589987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 64
+        width: 124
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837054438cfaa5bc0800000000000000
+      internalID: -3793526461700962504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 63
+        width: 113
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d0957d68ab12e60800000000000000
+      internalID: 7935829106704846191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 64
+        width: 112
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ee1ab25e3a3100800000000000000
+      internalID: 88451667717974236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 64
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76817b569f2e5640800000000000000
+      internalID: 5070542553291523708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surgeon saw in sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 64
+        width: 119
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b068509595196aa0800000000000000
+      internalID: -6167374482591162191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Surgeon saw in sheet_0: 1799704423506266954
+      Surgeon saw in sheet_1: 7357660752963622631
+      Surgeon saw in sheet_2: 229445232851878761
+      Surgeon saw in sheet_3: -7256557057241895874
+      Surgeon saw in sheet_4: -945235580417589987
+      Surgeon saw in sheet_5: -3793526461700962504
+      Surgeon saw in sheet_6: 7935829106704846191
+      Surgeon saw in sheet_7: 88451667717974236
+      Surgeon saw in sheet_8: 5070542553291523708
+      Surgeon saw in sheet_9: -6167374482591162191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
